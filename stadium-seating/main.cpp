@@ -1,6 +1,6 @@
 //
 // Kaden Duckwitz
-// 2/6/25
+// 2/6/2025
 // Stadium Seating Programming Project
 // COSC 1030
 //
