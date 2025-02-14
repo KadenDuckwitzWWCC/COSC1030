@@ -6,7 +6,6 @@
 //
 
 #include <iostream>
-#include <iomanip>
 
 int main() {
     // Gather the seconds as input
