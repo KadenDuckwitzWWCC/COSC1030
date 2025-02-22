@@ -6,7 +6,6 @@
 //
 
 #include <iostream>
-#include <cmath>
 
 int main() {
     // Initialize tally variables
