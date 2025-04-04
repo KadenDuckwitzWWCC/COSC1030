@@ -1,0 +1,13 @@
+Here are the results of the calculations:
+
+Size of the array entered: 10
+
+Array as entered by user:
+29 58 47 26 19 75 28 57 10 29 
+
+Array after sorting:
+10 19 26 28 29 29 47 57 58 75 
+
+Integer that was searched for: 26
+Index of the integer in the sorted array: 2
+The mean of the data set: 37.80
